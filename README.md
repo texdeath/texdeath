@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=texdeath&theme=chartreuse-dark&show_icons=true
+)](https://github.com/texdeath/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=texdeath&margin-w=15)](https://github.com/texdeath/github-profile-trophy)
