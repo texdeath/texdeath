@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 )](https://github.com/texdeath/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=texdeath&margin-w=15)](https://github.com/texdeath/github-profile-trophy)
+
